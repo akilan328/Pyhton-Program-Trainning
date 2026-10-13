@@ -1,0 +1,47 @@
+1.print("Hello, World!")
+
+2.a=("Akil")
+   print(a)
+3. name="akil"
+age=20
+city="Thanjavur"
+print(name,age,city,end=" ")
+
+4.name="akil"
+age=20
+city="Thanjavur"
+print(name,age,city,sep=" ")
+
+5.a=10
+b=20
+print(a)
+print(b)
+c=a
+a=b
+b=c
+print(a)
+print(b)
+
+1.a=int(input("Enter the Number:" ))
+b=input("Enter the float Number:")
+c=input("enter the string:")
+d=input("boolean:")
+print(a,b,c,d)
+
+2.age=int(input("Enter your age:"))
+print(type(age))
+
+3.a=int(input())
+b=int(input())
+print(a+b)
+
+4.a=input()
+a=float(a)
+print(a)
+print(type(a))
+
+5.a="50"
+a=int(a)
+print(a)
+print(a+5)
+
